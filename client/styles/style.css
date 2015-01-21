@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+}
+
+.shown {
+    display: block;
+}
+
+.animalImg {
+    max-width: 400px;
+}
